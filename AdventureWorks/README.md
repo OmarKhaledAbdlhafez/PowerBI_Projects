@@ -1,7 +1,7 @@
+# AdventureWorks
+ ## working with AdventureWorks database 
 
-working with AdventureWorks database 
-
-it is an oltp database with snowflake schema get it into power bi and start modeling it into star schema with one fact table (orders) and dimension tables throw those steps :
+### it is an oltp database with snowflake schema get it into power bi and start modeling it into star schema with one fact table (orders) and dimension tables throw those steps :
 
 -Rename Tables, columns
 
@@ -9,11 +9,7 @@ it is an oltp database with snowflake schema get it into power bi and start mode
 
 -one table (Merge M Language)
 
-Production.Product , Production.ProductSubcategory
-
-Production.ProductCategory
-
- into Product table 
+Production.Product , Production.ProductSubcategory , Production.ProductCategory into Product table 
 
 - salesorderHeader , salesorderDetails into orders table (fact table )
 
@@ -35,7 +31,7 @@ Production.ProductCategory
 
 - # Qty
 
-Visuals:
+ # Visuals:
 
 - # Orders by OrderDate vs. ShipDate vs. DueDate with Drill Down
 
