@@ -17,40 +17,35 @@ Production.Product , Production.ProductSubcategory , Production.ProductCategory 
 
 - create Product Hierarchy & date Hierarchy 
 
--  # Orders Measure
+-  Number of Orders Measure
 
--  # Orders Per due date Measure
+-   Number of Orders Per due date Measure
 
-- # Orders Per ship date Measure 
+-  Number of Orders Per ship date Measure 
 
-- # Orders Deatils Measure 
+-  Number of Orders Deatils Measure 
 
-- # Customer Measure 
+-  Number of Customer Measure 
 
 - Total Amount Measure  
 
-- # Qty
+- Total Qty
 
- # Visuals:
+ ###  Visuals:
 
-- # Orders by OrderDate vs. ShipDate vs. DueDate with Drill Down
+-  Number of Orders by OrderDate vs. ShipDate vs. DueDate with Drill Down
 
-- # Orders by Status
+-  Number of Orders by Status
 
-- # Orders by Shipmethod
+-  Number of Orders by Shipmethod
 
-- # Orders by Category, subCategory, Product with Drill Down
+-  Number of Orders by Category, subCategory, Product with Drill Down
 
-- # Orders by FlagOnlineOffline
+-  Number of Orders by FlagOnlineOffline
 
-- # Orders vs. Total Amount by Territory
+-  Number of Orders vs. Total Amount by Territory
 
 - Top 10 Sales Perosns (# Orders and Total Amount ) (Filter filter pane)
 
 - using Drill Through to get all Details order 
 
-u can check full project throw this link :
-
-https://github.com/OmarKhaledAbdlhafez/PowerBI_Projects/tree/main/AdventureWorks
-
- #powerbi  #dataanalytics #dataanalysis #dataanalyst #datascience 
