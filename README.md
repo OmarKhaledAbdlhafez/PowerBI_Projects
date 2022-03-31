@@ -1,2 +1,5 @@
 # PowerBI_Projects
-Power Bi projects 
+contains  Power Bi projects 
+- IMDB 
+- kickstarter projects
+- AdventureWorks
